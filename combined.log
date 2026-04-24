@@ -1,0 +1,37 @@
+2026-04-23 19:59:39 [error]: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (C:\Users\brayd\.gemini\antigravity\scratch\nebula-hub\server\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\brayd\.gemini\antigravity\scratch\nebula-hub\server\node_modules\mongoose\lib\connection.js:1100:11)
+    at async seed (C:\Users\brayd\.gemini\antigravity\scratch\nebula-hub\server\utils\seed.js:88:5)
+2026-04-23 19:59:49 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 19:59:49 [info]: 📊 Environment: development
+2026-04-23 19:59:54 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-23 20:00:26 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 20:00:26 [info]: 📊 Environment: development
+2026-04-23 20:11:04 [info]: Connected to MongoDB for seeding...
+2026-04-23 20:11:05 [info]: ✅ Seeded 8 games
+2026-04-23 20:11:05 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 20:11:05 [info]: 📊 Environment: development
+2026-04-23 20:11:05 [info]: ✅ MongoDB connected: localhost
+2026-04-23 20:18:28 [info]: Connected to MongoDB for seeding...
+2026-04-23 20:18:28 [info]: Admin keys already exist — skipping key seed
+2026-04-23 20:18:28 [info]: Games already exist (8) — skipping game seed
+2026-04-23 20:18:29 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 20:18:29 [info]: 📊 Environment: development
+2026-04-23 20:18:29 [info]: ✅ MongoDB connected: localhost
+2026-04-23 20:19:50 [info]: ::1 - - [24/Apr/2026:03:19:50 +0000] "POST /api/auth/login HTTP/1.1" 500 28 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:19:53 [info]: ::1 - - [24/Apr/2026:03:19:53 +0000] "POST /api/auth/login HTTP/1.1" 500 28 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:20:01 [info]: ::1 - - [24/Apr/2026:03:20:01 +0000] "POST /api/auth/login HTTP/1.1" 500 28 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:20:04 [info]: ::1 - - [24/Apr/2026:03:20:04 +0000] "POST /api/auth/login HTTP/1.1" 401 41 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:20:04 [info]: ::1 - - [24/Apr/2026:03:20:04 +0000] "POST /api/auth/login HTTP/1.1" 401 41 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:20:05 [info]: ::1 - - [24/Apr/2026:03:20:05 +0000] "POST /api/auth/login HTTP/1.1" 401 41 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:20:22 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 20:20:22 [info]: 📊 Environment: development
+2026-04-23 20:20:22 [info]: ✅ MongoDB connected: localhost
+2026-04-23 20:20:26 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 20:20:26 [info]: 📊 Environment: development
+2026-04-23 20:20:26 [info]: ✅ MongoDB connected: localhost
+2026-04-23 20:21:16 [info]: ::1 - - [24/Apr/2026:03:21:16 +0000] "POST /api/auth/login HTTP/1.1" 500 28 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:21:19 [info]: ::1 - - [24/Apr/2026:03:21:19 +0000] "POST /api/auth/login HTTP/1.1" 500 28 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+2026-04-23 20:21:22 [info]: 🚀 Nebula Hub Server running on port 5000
+2026-04-23 20:21:22 [info]: 📊 Environment: development
+2026-04-23 20:21:22 [info]: ✅ MongoDB connected: localhost

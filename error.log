@@ -1,0 +1,5 @@
+2026-04-23 19:59:39 [error]: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (C:\Users\brayd\.gemini\antigravity\scratch\nebula-hub\server\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\brayd\.gemini\antigravity\scratch\nebula-hub\server\node_modules\mongoose\lib\connection.js:1100:11)
+    at async seed (C:\Users\brayd\.gemini\antigravity\scratch\nebula-hub\server\utils\seed.js:88:5)
+2026-04-23 19:59:54 [error]: ❌ MongoDB connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
